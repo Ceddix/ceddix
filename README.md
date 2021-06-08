@@ -5,6 +5,7 @@
 - ✨ I’m a team member of the [@CraftTogetherDE](https://github.com/CraftTogetherDE) Minecraft-Server!
 
 #
+<!-- Social Media -->
 <a href="https://ceddix.de">
   <img align="left" alt="Ceddix | Website" width="22px" src="https://raw.githubusercontent.com/Ceddix/ceddix/master/assets/socials/website.svg" />
 </a>
