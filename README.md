@@ -7,8 +7,11 @@
 #### Discord-Server: https://ceddix.de/discord
 #### Website: https://ceddix.de (In Progress)
 
-
+<head>
 <link rel="stylesheet" href="https://ceddix.de/styles/main.css">
+</head>
+   
+<body>
 <div class="main-social">
    <a href="https://github.com/Ceddix" class="social-github tooltip tooltip-bottom">
        <i class="fab fa-github"></i>
@@ -35,3 +38,4 @@
        <span class="tooltiptext-bottom"><strong>Twitter</strong><br>@CeddixCed</span>
    </a>
 </div>
+</body>
