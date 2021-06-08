@@ -8,7 +8,7 @@
 #### Website: https://ceddix.de (In Progress)
 
 
-<link rel="stylesheet" href="https://github.com/Ceddix/ceddix/styles.css">
+<link rel="stylesheet" href="https://ceddix.de/styles/main.css">
 <div class="main-social">
    <a href="https://github.com/Ceddix" class="social-github tooltip tooltip-bottom">
        <i class="fab fa-github"></i>
