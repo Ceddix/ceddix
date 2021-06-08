@@ -6,17 +6,17 @@
 
 #
 <a href="https://ceddix.de">
-  <img align="left" alt="Ceddix | Website" width="22px" src="https://raw.githubusercontent.com/Ceddix/ceddix/master/assets/website.svg" />
+  <img align="left" alt="Ceddix | Website" width="22px" src="https://raw.githubusercontent.com/Ceddix/ceddix/master/assets/socials/website.svg" />
 </a>
 <a href="https://discord.com/invite/FGCq5GN">
-  <img align="left" alt="Ceddix | Discord" width="22px" src="https://raw.githubusercontent.com/Ceddix/ceddix/master/assets/discord.svg" />
+  <img align="left" alt="Ceddix | Discord" width="22px" src="https://raw.githubusercontent.com/Ceddix/ceddix/master/assets/socials/discord.svg" />
 </a>
 <a href="https://twitter.com/CeddixCed/">
-  <img align="left" alt="CeddixCed | Twitter" width="22px" src="https://raw.githubusercontent.com/Ceddix/ceddix/master/assets/twitter.svg" />
+  <img align="left" alt="CeddixCed | Twitter" width="22px" src="https://raw.githubusercontent.com/Ceddix/ceddix/master/assets/socials/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/ceddix/">
-  <img align="left" alt="ceddix | Instagram" width="22px" src="https://raw.githubusercontent.com/Ceddix/ceddix/master/assets/instagram.svg" />
+  <img align="left" alt="ceddix | Instagram" width="22px" src="https://raw.githubusercontent.com/Ceddix/ceddix/master/assets/socials/instagram.svg" />
 </a>
 <a href="https://steamcommunity.com/id/ceddix/">
-  <img align="left" alt="ceddix | Steam" width="22px" src="https://raw.githubusercontent.com/Ceddix/ceddix/master/assets/steam.svg" />
+  <img align="left" alt="ceddix | Steam" width="22px" src="https://raw.githubusercontent.com/Ceddix/ceddix/master/assets/socials/steam.svg" />
 </a>
