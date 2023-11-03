@@ -6,7 +6,7 @@
 
 #
 <!-- Social Media -->
-<a href="https://ceddix.de">
+<a href="https://cedrik.me">
   <img align="left" alt="Cedrik S. | Website" width="22px" src="https://raw.githubusercontent.com/Ceddix/ceddix/master/assets/socials/website.svg" />
 </a>
 <a href="https://discord.com/invite/FGCq5GN">
